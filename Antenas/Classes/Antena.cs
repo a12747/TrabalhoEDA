@@ -1,4 +1,4 @@
-namespace Antenas.Class;
+namespace Antenas.Classes;
 
 /// <summary>
 /// Classe Antena
